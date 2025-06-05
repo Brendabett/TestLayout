@@ -73,6 +73,7 @@ fun Subject(subjectCode: String, modifier: Modifier = Modifier) {
 
 }
 
+
 @Preview(showBackground = true)
 @Composable
 fun SubjectPreview() {
